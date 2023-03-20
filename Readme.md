@@ -3,7 +3,7 @@ https://www.linkedin.com/in/amir-khan-5a6171199
 ## Portfolio
 https://amir241297.github.io/
 
-<img src='https://the-decoder.com/wp-content/uploads/2022/11/cute_robot_AI_assistant_DALL%C2%B7E-2022e.png' style={{width:50px}} /> <h2>LANGUAGES & TOOLS</h2>
+<img src='https://the-decoder.com/wp-content/uploads/2022/11/cute_robot_AI_assistant_DALL%C2%B7E-2022e.png' width:'100px" /> <h2>LANGUAGES & TOOLS</h2>
 
 <hr/>
 
