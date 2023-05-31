@@ -66,7 +66,7 @@ Hi 👋
 
 <br/>
 <br/>
-<h2>## 💻 My Projects 💻</h2>
+<h2 align= "center">💻 My Projects 💻</h2>
 <div align= "center"  display="flex" >
 
  <a target="_blank" href="https://incandescent-truffle-b1c618.netlify.app/">
