@@ -5,9 +5,9 @@
 
  <h1 align="center">🗽Hello Everyone 🗽</h1>
  <h3 align="center">
-<!--  <img width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/facebook/327/flag-india_1f1ee-1f1f3.png"/> -->
+ <img width="20" src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg"/>
  A passionate Full-Stack Developer
-<!--  <img width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/facebook/327/flag-india_1f1ee-1f1f3.png"/> -->
+ <img width="20" src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg"/>
 </h3>
 
 
