@@ -84,9 +84,9 @@
  <a target="_blank" href="https://statuesque-kulfi-a03cbd.netlify.app/">
 <img  height="172px" src="https://github.com/amir241297/amir241297/blob/master/youtube.png" />
   </a>
-<!--  <a target="_blank" href="https://incandescent-cassata-f56374.netlify.app/">
-<img  height="172px" src="https://github.com/mdfaizan973/mdfaizan973/assets/106812942/a3f0797e-71b4-4d55-a9f0-a48d058e1ddc" />
-  </a> -->
+ <a target="_blank" href="https://647725d506c6800526070f4b--extraordinary-stroopwafel-59ad38.netlify.app/">
+<img  height="172px" src="https://github.com/amir241297/amir241297/blob/master/techTrove.png" />
+  </a>
   <a target="_blank" href="https://extraordinary-cat-f612ef.netlify.app/">
 <img  height="182px" src="https://github.com/amir241297/amir241297/blob/master/hotstart.png" />
   </a>
