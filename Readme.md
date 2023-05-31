@@ -110,13 +110,21 @@
 
 <div>
 
- <p align-'center' >
+ <br/>
+<br/>
+<div>
+  <p align-'center' >
    <a target="_blank" href="https://www.linkedin.com/in/amir-khan-5a6171199">
 <img  width='250px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" />
   </a>
+    <p align-'center' >
+   <a target="_blank" href="https://amir241297.github.io/">
+<img  width='250px' src="https://github.com/amir241297/amir241297/blob/master/portfolio.png" />
+  </a>
+ </div>
 
 <!-- ## Portfolio
-https://amir241297.github.io/
+
  -->
 <!-- <div style={{display:'flex'}} >
       <img src="https://png.pngitem.com/pimgs/s/158-1585435_ai-bot-png-transparent-png.png" width='50px' />
