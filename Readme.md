@@ -4,7 +4,7 @@
  </div>
 
  <h1 align="center">🗽Hello Everyone 🗽</h1>
- <h3 align="center">
+ <h3 alignItem="center" >
  <img width="120" src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg"/>
  A passionate Full-Stack Developer
  <img width="120" src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg"/>
