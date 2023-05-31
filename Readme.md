@@ -67,7 +67,9 @@
 <br/>
 <h2 align= "center">💻 My Projects 💻</h2>
 <div align= "center"  display="flex" >
-
+<a target="_blank" href="https://647725d506c6800526070f4b--extraordinary-stroopwafel-59ad38.netlify.app/">
+<img  height="172px" src="https://github.com/amir241297/amir241297/blob/master/techTrove.png" />
+  </a>
  <a target="_blank" href="https://incandescent-truffle-b1c618.netlify.app/">
  <img   height="173px" src="https://github.com/amir241297/amir241297/blob/master/nordstrom_Screenshot.png" />
 </a>
@@ -84,9 +86,7 @@
  <a target="_blank" href="https://statuesque-kulfi-a03cbd.netlify.app/">
 <img  height="172px" src="https://github.com/amir241297/amir241297/blob/master/youtube.png" />
   </a>
- <a target="_blank" href="https://647725d506c6800526070f4b--extraordinary-stroopwafel-59ad38.netlify.app/">
-<img  height="172px" src="https://github.com/amir241297/amir241297/blob/master/techTrove.png" />
-  </a>
+ 
   <a target="_blank" href="https://extraordinary-cat-f612ef.netlify.app/">
 <img  height="182px" src="https://github.com/amir241297/amir241297/blob/master/hotstart.png" />
   </a>
