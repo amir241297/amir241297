@@ -70,7 +70,7 @@
 <div align= "center"  display="flex" >
 
  <a target="_blank" href="https://incandescent-truffle-b1c618.netlify.app/">
- <img   height="173px" src="https://drive.google.com/file/d/1qCcUbyOiFPWffXZo_u0pUi3ATI68jLCW/view?usp=sharing" />
+ <img   height="173px" src="https://github.com/amir241297/amir241297/blob/master/nordstrom_Screenshot.png" />
 </a>
 <!--    <a target="_blank" href="https://fzshoes.netlify.app/">
  <img  height="172px" src="https://user-images.githubusercontent.com/106812942/214018158-224d47c0-2f3e-4a72-bc00-53ea918e6fdf.png" />
@@ -109,5 +109,4 @@ https://amir241297.github.io/
 
 <hr/> -->
 
-## 💻 My Projects 💻
 
