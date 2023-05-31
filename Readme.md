@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amir241297&label=Profile%20views&color=0e75b6&style=flat" alt="amir241297" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amir241297&label=Profile%20views&color=0e75b6&style=flat" alt="amir241297" /> </p>
  </div>
  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Hey!+It's+Amir+Khan!;Full+Stack-Web+Developer...🏻‍💻;" style="width: 100%;">
  <h1 align="center">🗽Hello Everyone 🗽</h1>
