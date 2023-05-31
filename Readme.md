@@ -110,9 +110,9 @@
 
 <div>
 
- <p align-'center' width="50%">
+ <p align-'center' >
    <a target="_blank" href="https://www.linkedin.com/in/amir-khan-5a6171199">
-<img  height="172px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" />
+<img  width='250px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" />
   </a>
 
 <!-- ## Portfolio
