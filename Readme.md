@@ -1,7 +1,8 @@
 <div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amir241297&label=Profile%20views&color=0e75b6&style=flat" alt="amir241297" /> </p>
- </div>
  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Hey!+It's+Amir+Khan!;Full+Stack-Web+Developer...🏻‍💻;" style="width: 100%;">
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=amir241297&label=Profile%20views&color=0e75b6&style=flat" alt="amir241297" /> </p>
+ </div>
+
  <h1 align="center">🗽Hello Everyone 🗽</h1>
  <h3 align="center">
 <!--  <img width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/facebook/327/flag-india_1f1ee-1f1f3.png"/> -->
