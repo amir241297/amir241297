@@ -110,16 +110,20 @@
 
 <div>
 
-<!-- ## Linkdin ID
-https://www.linkedin.com/in/amir-khan-5a6171199
-## Portfolio
-https://amir241297.github.io/
+ <p align-'center' >
+## Linkdin ID
+   <a target="_blank" href="https://www.linkedin.com/in/amir-khan-5a6171199">
+<img  height="172px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" />
+  </a>
 
-<div style={{display:'flex'}} >
+<!-- ## Portfolio
+https://amir241297.github.io/
+ -->
+<!-- <div style={{display:'flex'}} >
       <img src="https://png.pngitem.com/pimgs/s/158-1585435_ai-bot-png-transparent-png.png" width='50px' />
       <h2>Languages & Tools</h2>
-</div>
+</div> -->
 
-<hr/> -->
+<hr/>
 
 
