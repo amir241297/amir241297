@@ -112,7 +112,7 @@
 
  <br/>
 <br/>
-<div>
+<div display='flex'>
   <p align-'center' >
    <a target="_blank" href="https://www.linkedin.com/in/amir-khan-5a6171199">
 <img  width='250px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" />
