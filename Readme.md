@@ -61,14 +61,41 @@
     <img src="https://img.shields.io/badge/replit-282C34?logo=replit&logoColor=white" alt="replit logo" title="replit" height="25" />
    <br/>
 <br/>
-<!--    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/> -->
  </div>
-<!-- <div width="2000"><img src="https://github-trophies.vercel.app/?username=mdfaizan973&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></div> -->
-
 </div>
 
 <br/>
 <br/>
+<h2>## 💻 My Projects 💻</h2>
+<div align= "center"  display="flex" >
+
+ <a target="_blank" href="https://incandescent-truffle-b1c618.netlify.app/">
+ <img   height="173px" src="https://drive.google.com/file/d/1qCcUbyOiFPWffXZo_u0pUi3ATI68jLCW/view?usp=sharing" />
+</a>
+<!--    <a target="_blank" href="https://fzshoes.netlify.app/">
+ <img  height="172px" src="https://user-images.githubusercontent.com/106812942/214018158-224d47c0-2f3e-4a72-bc00-53ea918e6fdf.png" />
+  </a> -->
+<!--   <a target="_blank" href="https://spectacular-entremet-a93f43.netlify.app/index.html">
+<img  height="168px" src="https://user-images.githubusercontent.com/106812942/218271324-c3071ba5-560d-4029-bcfe-9263fb982e5d.png" />
+  </a> -->
+<!--    <a target="_blank" href="https://spectacular-mandazi-b54fe5.netlify.app/">
+<img  height="172px" src="https://user-images.githubusercontent.com/106812942/221214462-36c35e3a-f00e-4c5f-a874-aadc6a6503d2.png" />
+  </a> -->
+
+<!--  <a target="_blank" href="https://incandescent-cassata-f56374.netlify.app/">
+<img  height="172px" src="https://user-images.githubusercontent.com/106812942/229482067-fc289bf3-4d15-478c-81ea-aebd54b5950e.jpg" />
+  </a> -->
+<!--  <a target="_blank" href="https://incandescent-cassata-f56374.netlify.app/">
+<img  height="172px" src="https://github.com/mdfaizan973/mdfaizan973/assets/106812942/a3f0797e-71b4-4d55-a9f0-a48d058e1ddc" />
+  </a> -->
+<!--   <a target="_blank" href="https://clotho.vercel.app/">
+<img  height="182px" src="https://github.com/mdfaizan973/mdfaizan973/assets/106812942/4eac3e09-97c4-4145-9cff-ce4c4ea5c93f" />
+  </a> -->
+</div> 
+
+
+
+<div>
 
 <!-- ## Linkdin ID
 https://www.linkedin.com/in/amir-khan-5a6171199
