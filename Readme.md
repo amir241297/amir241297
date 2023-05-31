@@ -6,7 +6,7 @@
  <h1 align="center">🗽Hello Everyone 🗽</h1>
  <h3 align="center">
 <!--  <img width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/facebook/327/flag-india_1f1ee-1f1f3.png"/> -->
- A passionate Full-Stack Developer from India 
+ A passionate Full-Stack Developer
 <!--  <img width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/facebook/327/flag-india_1f1ee-1f1f3.png"/> -->
 </h3>
 
