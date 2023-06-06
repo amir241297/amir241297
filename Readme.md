@@ -153,7 +153,7 @@
  
  
  
- ![GithHub Status](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amir241297&theme={theme_name}&exclude=radical)
+ ![GithHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amir241297&theme=radical&exclude=radical)
  
  
  
