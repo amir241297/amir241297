@@ -3,19 +3,20 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=amir241297&label=Profile%20views&color=0e75b6&style=flat" alt="amir241297" /> </p>
  </div>
 
+<div>
+ - 👀 I’m interested in exploring new things
+- 🌱 I’m currently learning various new technologies
+- 💞️ I’m looking to collaborate on young and dynamic developers
+- 👨‍💻 You can know more of me at my **[Portfolio](https://amir241297.github.io/)**
+ </div>
+
+
  <h1 align="center">🗽Hello Everyone 🗽</h1>
  <h3 align="center" >
  <img width="120" src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg"/>
             A passionate Full-Stack Developer      
  <img width="120" src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg"/>
 </h3>
-
-
-- 👀 I’m interested in exploring new things
-- 🌱 I’m currently learning various new technologies
-- 💞️ I’m looking to collaborate on young and dynamic developers
-- 👨‍💻 You can know more of me at my **[Portfolio](https://akhiltop.github.io/)**
-
 
 
 <br/><br/>
