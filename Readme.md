@@ -143,6 +143,7 @@
  
  ![GithHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amir241297&theme=radical&exclude=radical)
 
- ![Most Used Language](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amir241297&theme=radical&utcOffset=radical)
+ ![Most Used Language](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amir241297&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+<!--  (http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amir241297&theme=radical&utcOffset=radical) -->
 <!--  </div> -->
 
