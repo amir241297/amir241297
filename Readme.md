@@ -10,7 +10,6 @@
 - 👨‍💻 You can know more of me at my **[Portfolio](https://amir241297.github.io/)**
 <!--  </div> -->
 
-
  <h1 align="center">🗽Hello Everyone 🗽</h1>
  <h3 align="center" >
  <img width="120" src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg"/>
