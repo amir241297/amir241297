@@ -11,7 +11,10 @@
 </h3>
 
 
-
+- 👀 I’m interested in exploring new things
+- 🌱 I’m currently learning various new technologies
+- 💞️ I’m looking to collaborate on young and dynamic developers
+- 👨‍💻 You can know more of me at my **[Portfolio](https://akhiltop.github.io/)**
 
 
 
@@ -135,30 +138,11 @@
 
 <!--  <div> -->
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amir241297&theme=radical)
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 ![Top Language Used](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amir241297&theme=radical)
  
- 
- 
- 
- 
- 
  ![GithHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amir241297&theme=radical&exclude=radical)
- 
- 
- 
- 
- 
+
  ![Most Used Language](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amir241297&theme={radical}&utcOffset=radical)
 <!--  </div> -->
 
