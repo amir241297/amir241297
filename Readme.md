@@ -146,18 +146,18 @@
  
  
  
- http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amir241297&theme={theme_name}
+ http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amir241297&theme=radical
  
  
  
  
  
  
- http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amir241297&theme={theme_name}&exclude={exclude}
+ http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amir241297&theme={theme_name}&exclude=radical
  
  
  
  
- http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amir241297&theme={theme_name}&utcOffset={utcOffset}
+ http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amir241297&theme={theme_name}&utcOffset=radical
 <!--  </div> -->
 
