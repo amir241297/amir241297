@@ -124,35 +124,6 @@
 <div align='center'>
 
   <!-- LinkedIn Image -->
-  <div>
-    <p align='center'>
-      <a target="_blank" href="https://www.linkedin.com/in/amir-khan-5a6171199">
-        <img width='250px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" />
-      </a>
-    </p>
-  </div>
-
-  <!-- Add some space between the images -->
-  <p>&nbsp;</p>
-
-  <!-- Portfolio Image -->
-  <div>
-    <p align='center'>
-      <a target="_blank" href="https://amir241297.github.io/">
-        <img width='250px' src="https://github.com/amir241297/amir241297/blob/master/portfolio.png" />
-      </a>
-    </p>
-  </div>
-
-</div>
-In this example, I added a non-breaking space (&nbsp;) after the first image, which will create a line break between the LinkedIn image and the Portfolio image, resulting in them appearing on separate rows. Feel free to adjust the width and spacing as needed.
-
-
-
-
-
-
-
 
 <div align='center'>
   <div>
@@ -164,7 +135,7 @@ In this example, I added a non-breaking space (&nbsp;) after the first image, wh
   </div>
 
 <p>&nbsp;</p>
-  
+  <!-- Portfolio Image -->
   <div>
   <p align='center' >
     <a target="_blank" href="https://amir241297.github.io/">
