@@ -16,7 +16,7 @@
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amir241297" alt="amir241297" /></a> </p>
 </div>
 
-<p align="center"> <img  src="https://csiac.org/wp-content/uploads/bb-plugin/cache/Capture-1024x567-panorama.png" height="300" width="1000"  /> </p>
+![Animated GIF](https://i.gifer.com/4dZK.gif)
 
 <h2 align="center">🚀 Languages and Tools:</h2>
 
@@ -41,7 +41,7 @@
 
   <br/><br/>
 
-  <div align="center"><h3 >Backend</h3>
+  <div align="center"><h3 >Backend & DataBase</h3>
   <!-- Add backend badges here -->
     <img src="https://img.shields.io/badge/Node js -282C34?logo=node.js&logoColor=green" alt="node.js  logo" title="Node.js" height="25" />
     <img src="https://img.shields.io/badge/Express.js -282C34?logo=express&logoColor=green" alt="node.js  logo" title="Node.js" height="25" />
@@ -118,20 +118,25 @@
 <br/><br/>
 
 <div align='center'>
+  <div>
   <p align='center' >
     <a target="_blank" href="https://www.linkedin.com/in/amir-khan-5a6171199">
       <img  width='250px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" />
     </a>
   </p>
+  </div>
+  <div>
   <p align='center' >
     <a target="_blank" href="https://amir241297.github.io/">
       <img  width='250px' src="https://github.com/amir241297/amir241297/blob/master/portfolio.png" />
     </a>
   </p>
+  </div>
 </div>
 
 <hr/>
-
+<div align='center>
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amir241297&theme=radical)
 
 ![Top Language Used](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amir241297&theme=radical)
@@ -139,3 +144,5 @@
 ![GithHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amir241297&theme=radical&exclude=radical)
 
 ![Most Used Language](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amir241297&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+
+</div>
