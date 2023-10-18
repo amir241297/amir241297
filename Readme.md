@@ -138,14 +138,18 @@
 </div>
 
 <hr/>
+
+<div align='center' >
+    ![Top Language Used](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amir241297&theme=radical)
+
+<div align='center' >
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amir241297&theme=radical)
-
-![Top Language Used](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amir241297&theme=radical)
-
-![GithHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amir241297&theme=radical&exclude=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amir241297&theme=radical)
+       ![GithHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amir241297&theme=radical&exclude=radical)
+</div>
 
 ![Most Used Language](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amir241297&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
+  </div>
 <!--  (http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amir241297&theme=radical&utcOffset=radical) -->
 <!--  </div> 
