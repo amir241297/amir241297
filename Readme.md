@@ -140,7 +140,9 @@
 <hr/>
 
 <div align='center' >
-    ![Top Language Used](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amir241297&theme=radical)
+
+  ![Top Language Used](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amir241297&theme=radical)
+
 
 <div align='center' >
   
