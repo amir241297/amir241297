@@ -16,7 +16,10 @@
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amir241297" alt="amir241297" /></a> </p>
 </div>
 
+<div align="center">
+  
 ![gif](https://github.com/amir241297/amir241297/assets/108000831/1d879d4c-fcbc-4e4a-a8f2-8e4f8d6dee6c)
+</div>
 
 <!--<p align="center"> <img  src="https://csiac.org/wp-content/uploads/bb-plugin/cache/Capture-1024x567-panorama.png" height="300" width="1000"  /> </p> -->
 
