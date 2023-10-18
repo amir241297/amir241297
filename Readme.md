@@ -43,11 +43,29 @@
 
   <h3 align="center">Backend</h3>
   <!-- Add backend badges here -->
+  <div>
+    <img src="https://img.shields.io/badge/Node js -282C34?logo=node.js&logoColor=green" alt="node.js  logo" title="Node.js" height="25" />
+    <img src="https://img.shields.io/badge/Express.js -282C34?logo=express&logoColor=green" alt="node.js  logo" title="Node.js" height="25" />
+    <img src="https://img.shields.io/badge/MongoDB -282C34?logo=mongodb&logoColor=darkgreen" alt="mongo DB  logo" title="Node.js" height="25" />
+ </div>
+
+  
+</div>
 
   <br/><br/>
 
   <h3 align="center">Tools</h3>
   <!-- Add tools badges here -->
+  <div align="center"><h3 align="center">Tools</h3>
+    <img src="https://img.shields.io/badge/netlify-282C34?logo=netlify&logoColor=#00C7B7" alt="netlify logo" title="Netlyfi" height="25" />
+  <img src="https://img.shields.io/badge/postman-282C34?logo=Postman&logoColor=E34F26" alt="HTML5 logo" title="Postman" height="25" />
+     <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=white" alt="HTML5 logo" title="Postman" height="25" />
+   <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+    <img src="https://img.shields.io/badge/codepen-282C34?logo=codepen&logoColor=white" alt="codepen logo" title="codepen" height="25" />
+    <img src="https://img.shields.io/badge/replit-282C34?logo=replit&logoColor=white" alt="replit logo" title="replit" height="25" />
+   <br/>
+<br/>
+ </div>
 </div>
 
 <br/><br/>
