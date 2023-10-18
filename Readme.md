@@ -17,6 +17,8 @@
 </div>
 
 ![Animated GIF](https://i.gifer.com/4dZK.gif)
+<p align="center"> <img  src="https://csiac.org/wp-content/uploads/bb-plugin/cache/Capture-1024x567-panorama.png" height="300" width="1000"  /> </p>
+
 
 <h2 align="center">🚀 Languages and Tools:</h2>
 
@@ -135,7 +137,6 @@
 </div>
 
 <hr/>
-<div align='center>
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amir241297&theme=radical)
 
@@ -145,4 +146,3 @@
 
 ![Most Used Language](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amir241297&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
-</div>
