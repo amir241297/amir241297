@@ -21,7 +21,7 @@
 ![gif](https://github.com/amir241297/amir241297/assets/108000831/1d879d4c-fcbc-4e4a-a8f2-8e4f8d6dee6c)
 </div>
 
-<!--<p align="center"> <img  src="https://csiac.org/wp-content/uploads/bb-plugin/cache/Capture-1024x567-panorama.png" height="300" width="1000"  /> </p> -->
+
 
 
 <h2 align="center">🚀 Languages and Tools:</h2>
@@ -129,7 +129,7 @@
   <!-- LinkedIn Image -->
 
 <div align='center'>
-  <div>
+  <div align='center'>
   <p align='center' >
     <a target="_blank" href="https://www.linkedin.com/in/amir-khan-5a6171199">
       <img  width='250px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" />
@@ -139,7 +139,7 @@
 
 <p>&nbsp;</p>
   <!-- Portfolio Image -->
-  <div>
+  <div align='center'>
   <p align='center' >
     <a target="_blank" href="https://amir241297.github.io/">
       <img  width='250px' src="https://github.com/amir241297/amir241297/blob/master/portfolio.png" />
