@@ -41,9 +41,8 @@
 
   <br/><br/>
 
-  <h3 align="center">Backend</h3>
+  <div align="center"><h3 >Backend</h3>
   <!-- Add backend badges here -->
-  <div>
     <img src="https://img.shields.io/badge/Node js -282C34?logo=node.js&logoColor=green" alt="node.js  logo" title="Node.js" height="25" />
     <img src="https://img.shields.io/badge/Express.js -282C34?logo=express&logoColor=green" alt="node.js  logo" title="Node.js" height="25" />
     <img src="https://img.shields.io/badge/MongoDB -282C34?logo=mongodb&logoColor=darkgreen" alt="mongo DB  logo" title="Node.js" height="25" />
@@ -54,7 +53,6 @@
 
   <br/><br/>
 
-  <h3 align="center">Tools</h3>
   <!-- Add tools badges here -->
   <div align="center"><h3 align="center">Tools</h3>
     <img src="https://img.shields.io/badge/netlify-282C34?logo=netlify&logoColor=#00C7B7" alt="netlify logo" title="Netlyfi" height="25" />
@@ -74,6 +72,31 @@
 
 <div align="center" display="flex">
   <!-- Add project images with links here -->
+  <div align= "center"  display="flex" >
+<a target="_blank" href="https://647725d506c6800526070f4b--extraordinary-stroopwafel-59ad38.netlify.app/">
+<img  height="172px" src="https://github.com/amir241297/amir241297/blob/master/techTrove.png" />
+  </a>
+ <a target="_blank" href="https://incandescent-truffle-b1c618.netlify.app/">
+ <img   height="173px" src="https://github.com/amir241297/amir241297/blob/master/nordstrom_Screenshot.png" />
+</a>
+   <a target="_blank" href="https://polite-kleicha-11ec23.netlify.app/">
+ <img  height="172px" src="https://github.com/amir241297/amir241297/blob/master/firstCry.png" />
+  </a>
+  <a target="_blank" href="https://helpful-naiad-08bcfd.netlify.app/">
+<img  height="168px" src="https://github.com/amir241297/amir241297/blob/master/ketto.png" />
+  </a>
+   <a target="_blank" href="https://rainbow-bunny-36c7ee.netlify.app/">
+<img  height="172px" src="https://github.com/amir241297/amir241297/blob/master/Zara.png" />
+  </a>
+
+ <a target="_blank" href="https://statuesque-kulfi-a03cbd.netlify.app/">
+<img  height="172px" src="https://github.com/amir241297/amir241297/blob/master/youtube.png" />
+  </a>
+ 
+  <a target="_blank" href="https://extraordinary-cat-f612ef.netlify.app/">
+<img  height="182px" src="https://github.com/amir241297/amir241297/blob/master/hotstart.png" />
+  </a>
+</div> 
 </div>
 
 <br/><br/>
